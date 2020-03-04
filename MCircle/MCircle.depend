@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1583319155 source:c:\users\admin\desktop\第四次上机\mcircle\main.cpp
+	<iostream>
+	"Point.h"
+	"Circle.h"
+	<math.h>
+
+1583312724 c:\users\admin\desktop\第四次上机\mcircle\include\point.h
+
+1583312724 c:\users\admin\desktop\第四次上机\mcircle\include\circle.h
+	"Point.h"
+
+1583312724 source:c:\users\admin\desktop\第四次上机\mcircle\src\point.cpp
+	<math.h>
+	"Point.h"
+	<iostream>
+
+1583312724 source:c:\users\admin\desktop\第四次上机\mcircle\src\circle.cpp
+	"Circle.h"
+	"Point.h"
+	<iostream>
+
